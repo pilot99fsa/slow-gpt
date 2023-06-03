@@ -1,3 +1,15 @@
+# Reactで作ったchat-GPTのAPIを使った簡易的なチャットbotアプリ
+
+ここ数年でYoutubeでよく見かけるゆっくり解説動画or実況動画のアバターを使ったチャットbotです。
+外部APIとの連携についての勉強を目的に作成しました。GoogleでAPI連携について記事を探して参考にしました。
+APIキーは当然ながら、漏洩を防ぐために記述しておりません。
+
+# 素材について
+
+ゆっくり魔理沙 & ゆっくり霊夢 のアバター : nicotalk&キャラ素材配布所 様　(http://www.nicotalk.com/charasozai_kt.html)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
